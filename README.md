@@ -11,11 +11,11 @@ Windows 11 LTSC Licance
 ## Why tho
 
 ## Whats Included
-Windowss 11 LTSC
-VMware Tools
-Google Chrome
-FireFox
-NotMyFault
+##### Windowss 11 LTSC
+##### VMware Tools
+##### Google Chrome
+##### FireFox
+##### NotMyFault
 
 
 ## Atributaions & Soreces
