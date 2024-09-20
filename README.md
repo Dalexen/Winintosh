@@ -3,10 +3,10 @@ A Quick Start for Apple Silicon Mac users that want to get Windows Up and Runnin
 
 ## Requirements
 
-##Why tho
+## Why tho
 
-##Whats Included
+## Whats Included
 
-##Atributaions & Soreces
+## Atributaions & Soreces
 
-###Enjoy! 
+### Enjoy! 
