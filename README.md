@@ -1,5 +1,5 @@
 # Winintosh
-A Quick Start for Apple Silicon Mac users that want to get Windows Up and Running Quickly on their fruit.
+The Quickest way to get Windows Up and Running  on their fruit.
 
 ## Requirements
 - 8GB RAM
@@ -8,17 +8,13 @@ A Quick Start for Apple Silicon Mac users that want to get Windows Up and Runnin
 - VMware Fusion
 - Windows 11 LTSC Licance
 
-## Why tho
-
 ## Whats Included
-##### Windowss 11 LTSC
-##### VMware Tools
-##### Google Chrome
-##### FireFox
-##### NotMyFault
-
+- Windowss 11 LTSC
+- VMware Tools
+- Google Chrome
+- FireFox
+- NotMyFault
 
 ## Atributaions & Soreces
 
 ### Enjoy! 
-#### We hope you have as much fun Using this as we did makeing it!
